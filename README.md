@@ -19,4 +19,5 @@ Project available here:
 
 ## Healthcare
 
-#
+# Prediction of Hospital Readmission of Diabetic Patients through a Random Forest Classifier
+This project aims to predict the readmission of diabetic patients at U.S Hospitals. The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. Readmission is a measurement that is correlated with quality in hospitals. The more readmission rate, the less score in quality (at least in U.S). Moreover, low quality equals serious penalizations to hospitals. Therefore, if we could identify the patients with high probability of being readmitted, we could create interventions to provide additional assistance in order to avoid future readmission. In this way, we improve quality and save cost for penalties.
