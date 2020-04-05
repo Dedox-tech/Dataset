@@ -13,7 +13,7 @@ You could see the project here: [GitHub](https://github.com/Dedox-tech/Data-Scie
 
 ## Real Estate Valuation with Bagging and AdaBoost
 
-The present projet aims to predict the house prices at the Taiwan Market. Given features as house ages, the number of convenience stores in the living circle and the distance to the nearest MRT (Mass Rapid Transist aka Public Transportation), the goal is predict the house price (measured as house price per unit area). Using Machine Learning models in Real State Valuation problems has a clear business impact: we can advice aspiring buyers for pay the right price, and on the other hand, adivicing sellers for receive and adequate price that macht with their interests.
+The present project aims to predict the house prices at the Taiwan Market. Given features as house ages, the number of convenience stores in the living circle and the distance to the nearest MRT (Mass Rapid Transist aka Public Transportation), the goal is predict the house price (measured as house price per unit area). Using Machine Learning models in Real State Valuation problems has a clear business impact: we can advice aspiring buyers for pay the right price, and on the other hand, adivicing sellers for receive and adequate price that macht with their interests.
 
 Project available here: [GitHub](https://github.com/Dedox-tech/Data-Science-Projects/blob/master/Real%20Estate%20Valuation.ipynb) or [NBViewer](https://nbviewer.jupyter.org/github/Dedox-tech/Data-Science-Projects/blob/master/Real%20Estate%20Valuation.ipynb)
 
